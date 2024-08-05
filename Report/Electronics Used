@@ -1,0 +1,9 @@
+Control Boards:
+  1. Arduino Nano(V1, V2)
+  2. Arduino Mega(V3)
+Motors:
+  1. RS775(V1)
+  2. RMCS3016(V2)
+  3. DXL XL430-W250(V3)
+Motor Drivers:
+  1. Cytron MDD10A(V1, V2)
